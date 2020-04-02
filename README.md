@@ -2,7 +2,13 @@
 
 [https://twitter.com/JanHenrikH/status/1245725762642206728](https://twitter.com/JanHenrikH/status/1245725762642206728)
 
+-------
+
 [https://github.com/ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink)
+
+-------
+
+https://github.com/blacksphere/blackmagic/wiki
 
 -------
 
