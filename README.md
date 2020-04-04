@@ -1,6 +1,5 @@
 # JEGGER s-link
 
-**HW files are not up to date**
 
 
 [https://twitter.com/JanHenrikH/status/1245725762642206728](https://twitter.com/JanHenrikH/status/1245725762642206728)
